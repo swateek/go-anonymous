@@ -1,7 +1,6 @@
 {
 		"name": "Go Anonymous!",
 		"version": "1.0.0",
-		"default_locale": "en",
 		"description": "When you want an uninterrupted place to be.",
 		"manifest_version": 2,
 		"author": "Swateek Jena",
@@ -22,5 +21,5 @@
 			"24": "images/go_anon_24.png",
 			"32": "images/go_anon_32.png" 
 		},
-		"permissions": ["tabs"]
+		"permissions": ["activeTab"]
 }
