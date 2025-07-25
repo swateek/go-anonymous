@@ -1,8 +1,8 @@
 {
-		"name": "Go Anonymous!",
-		"version": "1.0.2",
+		"name": "Go Anonymous! BETA",
+		"version": "2.0.0",
 		"description": "When you want an uninterrupted place to be.",
-		"manifest_version": 2,
+		"manifest_version": 3,
 		"author": "Swateek Jena",
 		"homepage_url": "https://github.com/swateek/go-anonymous",
 		"background": {
